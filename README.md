@@ -36,7 +36,17 @@ https://daattali.com/shiny/shinycssloaders-demo/
 
 https://github.com/daattali/shinycssloaders
 
+## package
 
+The package could be installed as follows:
+
+install.packages("devtools")
+
+library(devtools)
+
+devtools::install_github("HibaBenAribi/Learn_Shiny/tree/main/codeathonshiny")
+
+library(codeathonshiny)
 
 ## Contact
 
