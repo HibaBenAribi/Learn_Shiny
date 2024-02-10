@@ -22,8 +22,6 @@
 
 ## The User Interface :
 
-![image](https://github.com/HibaBenAribi/Learn_Shiny/assets/73958439/f2a22d20-476e-45d8-b9de-34a36c856f07)
-
 ![image](https://github.com/HibaBenAribi/Learn_Shiny/assets/73958439/e942c88c-7d2f-46de-b636-c8e5b0c6aa2e)
 
 ## Customize the UI
