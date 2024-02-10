@@ -3,7 +3,7 @@ library(dplyr)
 library(ggplot2) 
 library(readxl)
 
-expression<- "expression.csv"
+expression<- "expression-data.csv"
 expression <- read.csv(expression) %>%
   distinct(gene, .keep_all = TRUE) %>%
   na.omit() %>%
